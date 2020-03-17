@@ -1,6 +1,6 @@
 # Constants/Import/Export
 
-In App.js you will see a lot of functiond and constants declared.  We want to separate them into differnet files and then import them as needed.  In reality, they would be imported into different files, but for this example we will import everything back into App.js.
+In App.js you will see a lot of functions and constants declared.  We want to separate them into differnet files and then import them as needed.  In reality, they would be imported into different files, but for this example we will import everything back into App.js.
 
 The task consists of two parts:
 
